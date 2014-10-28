@@ -1,0 +1,7 @@
+require 'rubygems'
+require 'sinatra'
+require 'haml'
+require 'dm-core'
+require 'dm-validations'
+require 'dm-timestamps'
+require 'base62'
